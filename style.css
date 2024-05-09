@@ -1,0 +1,11 @@
+.tab1 th, td{
+    border: 1px solid black;
+}
+
+.tab1 td{
+   width: 5%;
+}
+
+.tab2 th, td{
+    border: 1px solid black;
+}
