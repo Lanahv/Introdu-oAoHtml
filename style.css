@@ -1,11 +1,42 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-spacing: 0px;
+}
+
 .tab1 th, td{
     border: 1px solid black;
 }
 
-.tab1 td{
-   width: 5%;
-}
+
 
 .tab2 th, td{
     border: 1px solid black;
 }
+
+
+
+.tab3 th, td{
+    border: 1px solid black;
+}
+
+
+
+.tab4 th, td{
+    border: 1px solid black;
+}
+
+
+
+.tab5 th, td{
+    border: 1px solid black;
+}
+
+
+
+.tab6 th, td{
+    border: 1px solid black;
+}
+
+
+
+
